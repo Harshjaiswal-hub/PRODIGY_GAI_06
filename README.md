@@ -1,4 +1,4 @@
-# Prodigy InfoTech Internship - Task 06: GPT-2 Text Generation
+# Prodigy InfoTech Internship - Task 01: GPT-2 Text Generation
 
 ## 📌 Task Objective
 
